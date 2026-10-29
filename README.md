@@ -6,7 +6,7 @@ This project showcases my web development projects in a clean and responsive lay
 
 ## 🌐 Live Demo
 
-👉 **[View Guessing Game](https://my-projects-page-delta.vercel.app/)**
+👉 **[My Projects Page](https://my-projects-page-delta.vercel.app/)**
 
 ## 🚀 Technologies Used
 
