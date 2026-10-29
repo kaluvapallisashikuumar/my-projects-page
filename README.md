@@ -4,6 +4,10 @@ A responsive **My Projects Page** created using **HTML, CSS, JavaScript, Bootstr
 
 This project showcases my web development projects in a clean and responsive layout.
 
+## 🌐 Live Demo
+
+👉 **[View Guessing Game](https://my-projects-page-delta.vercel.app/)**
+
 ## 🚀 Technologies Used
 
 - HTML5
@@ -32,7 +36,6 @@ my-projects-page/
 ├── script.js
 └── README.md
 ```
-
 ## 🎯 Purpose
 
 The purpose of this project is to create a personal projects page where I can showcase my web development projects and practice frontend development skills.
